@@ -1,0 +1,53 @@
+html,body{
+	height : 100%;
+}
+
+.page-wrapper{
+	min-height: 100%;
+}
+
+.footer{
+	background-color: #1976D2 ;
+	height:200px;
+}
+
+.tableStyle {
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+
+
+.footerMenuColor{
+	color:white;
+	font-size: 20px;
+}
+
+.footerMenuItemColor{
+	color:white;
+}
+
+.headerFunction {
+	margin-top: 0px !important;
+	height: 150px !important;
+}
+
+.headerTextFunction {
+	text-align: center !important;
+	font-size: 45px;
+	font-weight: 900;
+}
+
+.displayControl {
+	display: none
+}
+
+.main_header {
+	background-color: #BBDEFB;
+	height: 400px;
+}
+
+.main_header_text {
+	text-align: center;
+	font-size: 80px;
+}
+
